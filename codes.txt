@@ -1,0 +1,114 @@
+[3 of 4] What is the highest degree or level of school you have completed? (If you are currently enrolled in school, please indicate the highest degree you have received.)
+ Less than a high school diploma ----- 1
+ High school degree or equivalent (e.g. GED) Some college, no degree ----- 2
+ Associate degree (e.g. AA, AS) ------ 3
+ Bachelor's degree (e.g. BA, BS) --------- 4
+ Master's degree (e.g. MA, MS, MEd) ---------- 5
+ Professional degree (e.g. MD, DDS, DVM) ------ 6
+ Doctorate (e.g. PhD, EdD) ----- 7 
+
+[4 of 4] What is your current employment status?
+ Employed full time (40 or more hours per week) ------ 1
+ Employed part time (less than 40 hours per week) ------ 2
+ Unemployed, seeking employment ----- 3
+ Unemployed, not seeking employment ----- 4
+ Student ---- 5
+ Retired or Homemaker  ------- 6
+ Self-employed ----- 7
+ Unable to work ------ 8 
+
+[gender]
+male - 1
+female - 2
+Nonbinary_or_other - 3
+
+[radio buttons] 
+checked - 1
+unchecked - 0 
+
+
+[likert scale questions] 
+Strongly disagree --- 1 
+Disagree ------ 2 
+Somewhat disagree  ---- 3
+Neither agree nor disagree --- 4
+Somewhat agree --- 5
+Agree --- 6 
+Strongly agree --- 7 
+
+[passcode questions]
+Strongly disagree --- 1 
+Disagree ------ 2 
+Neither agree nor disagree --- 3
+Agree --- 4
+Strongly agree --- 5 
+
+
+
+[24 of 26] How likely are you to sign-in into the COVID-19 information
+website?
+ Not at all likely ----- 1
+ Somewhat unlikely ----- 2 
+ May or may not be likely ----- 3 
+ Somewhat likely --- 4
+ Very likely ---- 5
+
+[25 of 26] Did you spend more or less time on viewing the COVID-19
+website when compared to others?
+ Less time ----- 1 
+ More time ------ 3 
+ About the same amount of time ------ 2 
+ I do not remember ---- 0
+
+
+[5 of 26] SQL injection is a technique to:
+ Inject a malicious virus to the database SQL engine ---- 0
+ Inject a security patch to the database SQL engine in response to the discovery of new threats  --- 0 
+ Inject a statement that checks the database integrity through a website ---- 0
+ Inject root user privileges to a regular user without using the graphical user interface (GUI) of the database  ---- 0 
+ Inject a malicious statement to the database through a website ----- 1
+ I do not know -- NA 
+
+
+
+[6 of 26] The difference between a passive and reactive Intrusion Detection
+System is?
+ Passive IDS is software based and reactive is hardware based ----- 0
+ Passive IDS provides only alerts and reactive IDS can retaliate by sending malicious code to the attacker  ---- 1
+ There are no real differences, they are just brand names ----- 0
+ Passive IDS is included in a Firewall while reactive IDS is a standalone network component -------- 0 
+ Reactive IDS can reprogram the Firewall and passive IDS does not  ----- 0
+ I do not know   --- NA
+
+
+[7 of 26] Without any other changes in the default settings of a web server,
+what can be the motivation to close port 80?
+ Block incoming XMLhttp Request ----- 0
+ Block File Transfer Protocol daemon ---- 0 
+ Block Hypertext Transfer Protocol daemon ----- 1
+ Block incoming and outgoing requests from SMB/CIFS clients ---- 0 
+ Block Hypertext Transfer Protocol Secure daemon ----- 0 
+ I do not know  ----- NA 
+
+
+[8 of 26] How many computer programming languages do you know (not
+including HTML)?
+ More than 10 -------- 4 
+ 6-10 ---- 3
+ 2-5 ----- 2
+ 1 ----- 1 
+ None  ---- 0 
+[9 of 26] How many years of working experience do you have in network
+operation and security?
+ More than 10 years ------- 4
+ 6-10 years ----- 3
+ 1-5 years ------ 2 
+ Less than a year ------ 1 
+ None ----- 0
+[10 of 26] On average, how many times do you have to deal with computer
+security related problems?
+ Several times every day ------- 5  
+ Once a day ------ 4
+ Once a week ---- 3 
+ Once a month ------- 2
+ Once a year (or less) ------- 1 
